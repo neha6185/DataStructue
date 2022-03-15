@@ -1,4 +1,5 @@
 // use this solution if you are allowed to manipulate the existing array
+// Given Sorted array ... if unsorted ask if you can manipulate array
 function countUniqueValue(arr){
     let i =0;
     let j=i+1;
